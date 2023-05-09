@@ -1,8 +1,14 @@
 # color-themes
+\
+[![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
 
-## A color theme changer  https://codesleeps.github.io/color-themes/
+![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
+
+## A color theme changer 
+
+https://codesleeps.github.io/color-themes/
   
-   With just a few lines of JavaScript all CSS & a drop of HTML of course
+  - With just a few lines of JavaScript all CSS & a drop of HTML of course
    
    
    
